@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Meu nome é Italo Pussi, tenho 17 anos e sou estudante de Ciência da Programação.<br/>
 🌱📚 <strong> Nesse repositório você encontrará códigos escritos em: </strong>React, React Native, NodeJS, Python, Javascript e Typescript.<br/>
 👯 Estou disposto a ajudar em qualquer projeto, basta me contactar<br/>
-🤔 Caso queira realizar alguma pull request, seja bem vindo!
+🤔 Caso queira realizar alguma pull request, seja bem vindo!<br/>
 📫 Me siga também no <a href="https://www.linkedin.com/in/italo-pussi-796567169/">Linkedin</a>
