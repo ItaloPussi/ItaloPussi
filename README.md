@@ -2,8 +2,8 @@
 
 ### Olá! Hi! ¡Hola! 👋
 My name is Italo Pussi, I've 17 years and I study Computer Science on a Brazilian college!<br/>
-🌱📚 <strong> In this repo you will find projects written in:</strong>React, React Native, NodeJS, Python, Javascript e Typescript.<br/>
-👯 Wanna help in some project? If so contact me<br/>
+🌱📚 <strong> In this repo you will find projects written in: </strong>React, React Native, NodeJS, Python, Javascript e Typescript.<br/>
+👯 Wanna help in some project? If so contact me.<br/>
 🤔 If you want to make a pull request, feel free!<br/>
 📫 Follow me on <a href="https://www.linkedin.com/in/italo-pussi-796567169/">Linkedin</a>
 
