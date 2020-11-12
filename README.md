@@ -1,21 +1,20 @@
-<!--
-**ItaloPussi/ItaloPussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Olá! Hi! ¡Hola! 👋
+My name is Italo Pussi, I've 17 years and I study Computer Science on a Brazilian college!<br/>
+🌱📚 <strong> In this repo you will find projects written in:</strong>React, React Native, NodeJS, Python, Javascript e Typescript.<br/>
+👯 Wanna help in some project? If so contact me<br/>
+🤔 If you want to make a pull request, feel free!<br/>
+📫 Follow me on <a href="https://www.linkedin.com/in/italo-pussi-796567169/">Linkedin</a>
+
+<br />
+
 Meu nome é Italo Pussi, tenho 17 anos e sou estudante de Ciência da Programação.<br/>
 🌱📚 <strong> Nesse repositório você encontrará códigos escritos em: </strong>React, React Native, NodeJS, Python, Javascript e Typescript.<br/>
 👯 Estou disposto a ajudar em qualquer projeto, basta me contactar<br/>
 🤔 Caso queira realizar alguma pull request, seja bem vindo!<br/>
 📫 Me siga também no <a href="https://www.linkedin.com/in/italo-pussi-796567169/">Linkedin</a>
+
+
+
+
